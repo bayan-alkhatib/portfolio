@@ -50,7 +50,7 @@ input[type="button"]:hover,
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #9ececc;
+			background-color:rgba(11, 230, 219, 0.568);
 		}
 
 		input[type="button"]:active,
@@ -103,17 +103,20 @@ input[type="button"]:hover,
 
 #main > section.one {
     background-color: #81918E;
-    background-image: url("../../images/banner.jpg");
+    background-image: url("../../images/portfolio-bg.gif");
 }
 
 #main > section.two {
-    background-color: #f5fafa;
+    background-image: url(../../images/port-section-bg.jpg);
 }
 
 #main > section.three {
-    background-color: #ecf1f1;
+    background-image: url(../../images/port-img-2.jpg);
 }
 
 #main > section.four {
-    background-color: #e8edec;
+    background-image: url(../../images/contact-img.jpg);
 }
+/* #top{
+    background-image: url(./images/portfolio-bg.gif);
+} */
